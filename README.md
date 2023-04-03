@@ -1,8 +1,9 @@
 # PWSH-IP-Recon
 Powershell IP recon script
 **************************
-$ Launch PS script.
-$ Insert IP address.
+Launch PS script.
+Insert IP address.
+Run.
 
 Scrip uses:
 - ipinfo.io
