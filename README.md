@@ -6,6 +6,7 @@ Insert IP address.
 Run.
 
 Scrip uses:
+- AbuseIPDB
 - ipinfo.io
 - ping (alive\dead)
 - nslookup
